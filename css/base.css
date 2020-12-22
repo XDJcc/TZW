@@ -1,0 +1,15 @@
+/* 基础公共样式 */
+/* 清除福浮动和高度塌陷 */
+.clearfix ::after,
+.clearfix ::before {
+  content: "";
+  display: table;
+  clear: both;
+}
+body {
+  color: rgb(51, 51, 51);
+  /* 全局字体*/
+  font: 14px/1.5 Helvetica Neue, Helvetica, Arial, Microsoft Yahei,
+    Hiragino Sans GB, Heiti SC, WenQuanYi Micro Hei, sans-serif;
+  min-width: 1226px;
+}
