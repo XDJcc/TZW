@@ -2,7 +2,7 @@ html {
   perspective: 1000px;
 }
 body {
-  background-image: url("../img/001.jpg");
+  background-image: url("../img/1.jpg");
   background-color: #eea2a4;
   background-repeat: no-repeat;
 }
@@ -135,7 +135,7 @@ body {
   /* background-color: #bfa; */
   /* opacity: 0.5; */
   /* background-color: #85c275; */
-  animation: xuanzhuan 10s linear infinite;
+  animation: xuanzhuan 5s linear infinite;
 }
 .box1 > div {
   position: absolute;
